@@ -1,4 +1,4 @@
-n=20
+#n=20
 number_of_guesses=1
 print("Number of guesses is limited to 9 times: ")
 while (number_of_guesses<=9):
